@@ -14,8 +14,8 @@ The zombie apocalypse has come. After the panic subsided and survivalistic life 
 Graphics will have a cartoon style.
 Examples can be seen below.
 
-<img alt="screenshot 1" src="1screen.jpg">
-<img alt="screenshot 2" src="2screen.jpg">
+<img alt="screenshot 1" src="1Screen.jpg">
+<img alt="screenshot 2" src="2Screen.jpg">
 
 Sound will be ambient noise, some background music and zombie noises so it does not seem to silent. There will also be sounds for item interactions, and button presses.
 
